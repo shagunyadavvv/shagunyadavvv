@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shagun Yadav</h1>
-<h3 align="center">A passionate about Data/Business analysis</h3>
+<h3 align="center">I'm passionate about Data/Business analysis</h3>
 - 🌱 I’m currently learning **Python, Machine Learning**
 
 - 💬 Ask me about **Data analysis, excel, SQL, BI, Python**
