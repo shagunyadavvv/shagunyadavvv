@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shagun Yadav</h1>
 <h3 align="center">I'm passionate about Data/Business analysis</h3>
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🌱 I’m a passionate Data Scientist. 
 
-- 💬 Ask me about **Data analysis, excel, SQL, BI, Python**
+- 💬 Ask me about **Data Science, Excel, SQL, BI, Python**
 
 - 📫 How to reach me **shagunydv2000@gmail.com**
 
