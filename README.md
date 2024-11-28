@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shagun Yadav</h1>
-<h3 align="center">I'm passionate about Data/Business analysis</h3>
-- 🌱 I’m a passionate Data Scientist. 
+<h3 align="center">I'm passionate about Data scientist </h3>
+- 🌱 I’m getting proficient in machine learning algorithms, and deep learning techniques. 
 
 - 💬 Ask me about **Data Science, Excel, SQL, BI, Python**
 
-- 📫 How to reach me **shagunydv2000@gmail.com**
+- 📫 How to reach me **shaagunyadav18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
